@@ -42,4 +42,7 @@ double valorIMC = peso / (altura * altura);
 Console.ReadKey();
 ~~~
 
+### Vídeo do projeto
+[![Assista no YouTube](https://img.youtube.com/vi/h0AooG1zKSA/maxresdefault.jpg)](https://www.youtube.com/watch?v=h0AooG1zKSA)
+
 
